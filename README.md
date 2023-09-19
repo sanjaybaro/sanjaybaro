@@ -14,9 +14,8 @@
  🌱 I’m currently learning **Redux, Tailwind, Advanced React**
 
  💬 Ask me about **HTML, CSS, javaScript, React... or anything [here](https://github.com/sanjaybaro/sanjaybaro/issues)**
-
- ⚡ Fun fact **Welcome**
- Checkout My Portfolio: "https://sanjaybaro.github.io"
+ - <a href="https://drive.google.com/file/d/1RtdjvTQx-dPCBzMS9_l0CTvNg8ci32aI/view?usp=sharing" target="_blank">Resume</a>
+ - <a href="https://sanjaybaro.github.io/" target="_blank">Protfolio</a>
  
  </div>
  
