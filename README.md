@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div display="flex" align="center">
  
  🔭 I’m currently working on **a Doctor Appointment app**
  
