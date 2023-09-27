@@ -40,7 +40,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,ts" /><br>
     <img src="https://skillicons.dev/icons?i=vite,github,bootstrap,vscode,netlify,postman,git,replit,codepen,babel,stackoverflow" />
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaybaro&" alt="sanjaybaro" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=sanjaybaro" alt="sanjaybaro" /></p>
 <br/>
 <hr/>
 
