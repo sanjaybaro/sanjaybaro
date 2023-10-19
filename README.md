@@ -9,7 +9,7 @@
 <br/>
 
 <div display="flex" align="center">
-<h3 align="center">A Aspiring full stack developer passionate about creating innovative web applications. </h3>
+A Aspiring full stack developer passionate about creating innovative web applications. 
  
  🔭 I’m currently working on **a Doctor Appointment app**
  
