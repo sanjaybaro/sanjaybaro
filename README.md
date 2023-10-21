@@ -16,8 +16,7 @@ A Aspiring full stack developer passionate about creating innovative web applica
  🌱 I’m currently learning **Redux, Tailwind, Advanced React**
 
  💬 Ask me about **HTML, CSS, javaScript, React... or anything [here](https://github.com/sanjaybaro/sanjaybaro/issues)**
- - <a href="https://drive.google.com/file/d/1RtdjvTQx-dPCBzMS9_l0CTvNg8ci32aI/view?usp=sharing" target="_blank">Resume</a>
- - <a href="https://sanjaybaro.github.io/" target="_blank">Protfolio</a>
+
  <img width="30%" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"/>
  
  </div>
@@ -32,6 +31,7 @@ A Aspiring full stack developer passionate about creating innovative web applica
   <a href="https://sanjaybaro.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+     - <a href="https://drive.google.com/file/d/1RtdjvTQx-dPCBzMS9_l0CTvNg8ci32aI/view?usp=sharing" target="_blank">Resume</a>
 </div>
 
  <hr/>
