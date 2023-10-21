@@ -1,13 +1,8 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanjay+Baro;" />
-
 </h1>
-
-
-
 <br/>
-
 <div display="flex" align="center">
 A Aspiring full stack developer passionate about creating innovative web applications. 
  
@@ -44,8 +39,6 @@ A Aspiring full stack developer passionate about creating innovative web applica
 </div>
 <br/>
 <hr/>
-<a href="https://drive.google.com/file/d/1RtdjvTQx-dPCBzMS9_l0CTvNg8ci32aI/view?usp=sharing" target="_blank" style="text-decoration: none;">📄RESUME</a>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-baro) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sanjaybaro) 
