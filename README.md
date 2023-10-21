@@ -31,7 +31,7 @@ A Aspiring full stack developer passionate about creating innovative web applica
   <a href="https://sanjaybaro.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-     - <a href="https://drive.google.com/file/d/1RtdjvTQx-dPCBzMS9_l0CTvNg8ci32aI/view?usp=sharing" target="_blank">Resume</a>
+     - <a href="https://drive.google.com/file/d/1RtdjvTQx-dPCBzMS9_l0CTvNg8ci32aI/view?usp=sharing" target="_blank" text-decoration:none> 📄RESUME</a>
 </div>
 
  <hr/>
