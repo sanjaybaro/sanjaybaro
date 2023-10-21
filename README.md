@@ -44,7 +44,8 @@ A Aspiring full stack developer passionate about creating innovative web applica
 </div>
 <br/>
 <hr/>
-<a href="https://drive.google.com/file/d/1RtdjvTQx-dPCBzMS9_l0CTvNg8ci32aI/view?usp=sharing" target="_blank" "text-decoration:none"> 📄RESUME</a>
+<a href="https://drive.google.com/file/d/1RtdjvTQx-dPCBzMS9_l0CTvNg8ci32aI/view?usp=sharing" target="_blank" style="text-decoration: none;">📄RESUME</a>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-baro) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sanjaybaro) 
