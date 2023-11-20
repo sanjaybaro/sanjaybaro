@@ -4,7 +4,7 @@
 </h1>
 <br/>
 <div display="flex" align="center">
-A Aspiring full stack developer passionate about creating innovative web applications. 
+An Aspiring full stack developer passionate about creating innovative web applications. 
  
  🔭 I’m currently working on **a Doctor Appointment app**
  
