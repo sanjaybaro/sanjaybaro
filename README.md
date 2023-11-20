@@ -4,7 +4,7 @@
 </h1>
 <br/>
 <div display="flex" align="center">
-An Aspiring full stack developer passionate about creating innovative web applications. 
+An Aspiring Developer Dedicated to work and open to learn new technology. MERN developer, interested to work in different frameworks & libraries.Has an ability to work on Reusable components implementation for different libraries in project building,problem solving.Open to Collaborate with Team and individual also. 
  
  🔭 I’m currently working on **a Doctor Appointment app**
  
