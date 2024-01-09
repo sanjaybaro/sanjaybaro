@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanjay+Baro;" />
 </h1>
 
-<div display="flex" align="center"><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"></div>
+<div display="flex" align="center"><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"></div>
 <br/>
 <div display="flex" align="center">
 An Aspiring Developer Dedicated to work and open to learn new technology. MERN developer, interested to work in different frameworks & libraries.Has an ability to work on Reusable components implementation for different libraries in project building,problem solving.Open to Collaborate with Team and individual also. 
