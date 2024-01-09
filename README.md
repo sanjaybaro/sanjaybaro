@@ -2,8 +2,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanjay+Baro;" />
 </h1>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24" width="600">
-<br><br>
+
+<div><img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="300"></div>
 <br/>
 <div display="flex" align="center">
 An Aspiring Developer Dedicated to work and open to learn new technology. MERN developer, interested to work in different frameworks & libraries.Has an ability to work on Reusable components implementation for different libraries in project building,problem solving.Open to Collaborate with Team and individual also. 
