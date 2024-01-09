@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanjay+Baro;" />
 </h1>
-<div>https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif</div>
+<div>https://drive.google.com/file/d/1GPIM8SQa1gHthUv3HVGFZnrOIsROKypd/view?usp=sharing</div>
 <br/>
 <div display="flex" align="center">
 An Aspiring Developer Dedicated to work and open to learn new technology. MERN developer, interested to work in different frameworks & libraries.Has an ability to work on Reusable components implementation for different libraries in project building,problem solving.Open to Collaborate with Team and individual also. 
